@@ -27,3 +27,9 @@ Contact.......... chilhatehoney28@email.com
 
 
 ```
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=honey0410-chl&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=honey0410-chl&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=honey0410-chl&layout=compact&theme=tokyonight)
