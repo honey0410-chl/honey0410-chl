@@ -78,13 +78,6 @@ Status............ Learning | Building | Growing 🚀
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=honey0410-chl&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -138,7 +131,7 @@ Status............ Learning | Building | Growing 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/honey-chilhate)">
+<a href="https://www.linkedin.com/in/honey-chilhate?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
