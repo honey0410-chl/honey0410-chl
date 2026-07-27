@@ -142,11 +142,11 @@ Status............ Learning | Building | Growing 🚀
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/honey-chilhate)">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:chilhatehoney28@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
